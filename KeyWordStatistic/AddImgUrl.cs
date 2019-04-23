@@ -25,6 +25,11 @@ namespace KeyWordStatistic
 
         }
 
+        private void test()
+        {
+
+        }
+
         private void Run()
         {
             var Filter = Builders<BsonDocument>.Filter;
