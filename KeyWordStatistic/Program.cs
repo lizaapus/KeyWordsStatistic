@@ -15,7 +15,31 @@ namespace KeyWordStatistic
             //new UpdateMongoDb();
             //new DataParser().Parese();
             //new SaveHtmlImg().Run();
-            new AddImgUrl();
+            //new ParseContent();
+            //new AddContentHtmlImg();
+            //new ContentPrase();
+            //new ReadDic().dic();
+            //new NewDataParser();
+            //new ArchTsinghuaEduCnParser();
+            //new TongjiDataParser();
+            //new TongjiAddNewDataParser();
+            //new tongjCGJJHtml();
+            //new Enterprise_addListImg();
+            //new AddcompanydetailMsg();
+            //new Enterprise_addListImg();
+            //new enterprise_parse();
+            //new UpdateMysqldb();
+            //new AddImgUrlFromhtml();
+            //new AddProductsImgFromHtml();
+            //new AddImgUrl();
+            //new SeprateImg();
+            //new MongodbCollumnStatistic();
+            //new MergeTwoMongodb();
+            //new AlertMongodbValue();
+            //new TransforMongoToMongo();
+            //new TransforMongoToMysql().TransforMToMysql().Wait();
+            //new AddImgUr();
+            new TransforMysqlToKbase();
         }
     }
 }

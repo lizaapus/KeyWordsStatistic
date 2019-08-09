@@ -3,3 +3,6 @@
 ################################################################################
 
 /KeyWordStatistic/bin/Debug
+/KeyWordStatistic/obj/Debug
+/.vs/KeyWordStatistic/v15
+/packages

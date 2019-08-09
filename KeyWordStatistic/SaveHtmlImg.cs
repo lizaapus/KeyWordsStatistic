@@ -14,7 +14,7 @@ namespace KeyWordStatistic
     public class SaveHtmlImg
     {
         string ConnectDB = "mongodb://192.168.106.56:27017";
-        string DBName = "TsinghuaEduCn";
+        string DBName = "BizTouchevCom";
         public void Run()
         {
             MongoClient _client = new MongoClient(ConnectDB);
